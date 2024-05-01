@@ -1,26 +1,22 @@
-# README
 
-This is a simple Linktree clone made with Ruby on Rails.
+# Linktree Clone 
+This is a Ruby on Rails application that functions as a simple Linktree clone, allowing users to showcase multiple links on a single page.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Setup
 
-Things you may want to cover:
+1. **Ruby version**: Ensure you have Ruby installed on your system. This application is developed using Ruby version X.X.X.
 
-* Ruby version
+2. **System dependencies**: Check if there are any system dependencies required by the application. 
 
-* System dependencies
+3. **Configuration**: Set up any necessary configuration, such as environment variables.
 
-* Configuration
+4. **Database**: Create the required database for the application.
 
-* Database creation
+5. **Initialization**: Initialize the database with any necessary seed data or initial setup.
 
-* Database initialization
+## Running
 
-* How to run the test suite
+To run the application:
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+rails server
